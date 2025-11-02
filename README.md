@@ -29,4 +29,75 @@ Gaining hands-on industry experience in recruitment, communication, and organiza
 ## 🌱 Currently Learning  
 - 🤖 **Advanced Machine Learning & NLP**  
 - ⚙️ **IoT + AI Integrations**  
-- 🌐 **React.js, Node.js & API Developme**
+- 🌐 **React.js, Node.js & API Development**  
+- 📊 **Data Analytics & Visualization**  
+
+---
+
+## 👯 Let’s Collaborate On  
+- 💡 Real-world **AI/ML applications**  
+- 🌍 **Open Source Projects**  
+- 📈 **Data-driven solutions** that make an impact  
+
+---
+
+## 💬 Ask Me About  
+🧠 Machine Learning | 🌐 Web Development | 📊 Data Analytics | 💼 HR Experience  
+💻 Python | JavaScript | React | Tailwind | MySQL | Git  
+
+---
+
+## 📫 Connect With Me  
+<p align="center">
+  <a href="mailto:haryanth9@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/haryanth-botla/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/haryanthbotla" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🧠 Tech Stack  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,tailwind,react,nodejs,mongodb,mysql,git,github,vscode" />
+</p>
+
+---
+
+## 📈 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=haryanthbotla&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=haryanthbotla&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haryanthbotla&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+## 📊 Activity Graph  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=haryanthbotla&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
+</p>
+
+---
+
+## ✨ Quote  
+<p align="center">
+  <em>“Blending technology and people skills — building smart systems while growing through every experience.”</em> 🌱
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=haryanthbotla&label=Profile%20Views&color=blue&style=flat-square" alt="Profile Views" />
+</p>
