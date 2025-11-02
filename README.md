@@ -62,9 +62,9 @@ Gaining hands-on industry experience in recruitment, communication, and organiza
 
 ---
 
-## 📊 Activity Graph  
+## 🧠 Tech Stack  
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=haryanthbotla&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,tailwind,react,nodejs,mongodb,mysql,git,github,vscode" />
 </p>
 
 ---
