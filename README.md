@@ -62,28 +62,6 @@ Gaining hands-on industry experience in recruitment, communication, and organiza
 
 ---
 
-## 🧠 Tech Stack  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,tailwind,react,nodejs,mongodb,mysql,git,github,vscode" />
-</p>
-
----
-
-## 📈 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=haryanthbotla&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=haryanthbotla&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haryanthbotla&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
 ## 📊 Activity Graph  
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=haryanthbotla&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
